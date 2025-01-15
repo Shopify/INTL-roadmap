@@ -1,0 +1,16 @@
+# Team PTO Tracker
+
+This document is used to track the Paid Time Off (PTO) of our team members. Please fill in the details for any PTO taken.
+
+## PTO Requests
+
+| Employee Name | PTO Start Date | PTO End Date | Who's Covering | Notes                       |
+|----------------|-----------------|---------------|----------------|-----------------------------|
+| John Doe       | 2023-11-01      | 2023-11-05    | Jane Smith     | Family trip to Hawaii       |
+| Jane Smith     | 2023-11-10      | 2023-11-12    | Alex Johnson    | Flu symptoms                |
+| Alex Johnson   | 2023-11-20      | 2023-11-22    | John Doe       | Attending a wedding         |
+
+## Guidelines
+- **PTO Requests**: Submit PTO requests >3 days at least 1 month  in advance.
+- **Coverage**: Ensure that a team member is assigned to cover your responsibilities during your absence in PTO is >3 days.
+- **Notifying Team**: Please communicate your PTO plans with youe lead and multifecta team ahead of time to assist with project planning
